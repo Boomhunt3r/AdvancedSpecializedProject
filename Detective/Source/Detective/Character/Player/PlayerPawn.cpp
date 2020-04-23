@@ -46,10 +46,12 @@ void APlayerPawn::Move(FVector2D _movement)
 
 void APlayerPawn::Rotate(FVector2D _rotation)
 {
+	// get current camera pitch, add rotation and clamp angle
 	float angle = CameraRoot->RelativeRotation.Pitch;
 	angle += _rotation.Y * RotationSpeed * GetWorld()->GetDeltaSeconds();
 	angle = FMath::Max(-45.0f, FMath::Min(45.0f, angle));
 
+	// set pitch of camera root and add rotation to capsule yaw
 	CameraRoot->SetRelativeRotation(FRotator(angle, CameraRoot->RelativeRotation.Yaw, 0.0f));
 	Capsule->AddLocalRotation(FRotator(0.0f, _rotation.X * RotationSpeed * GetWorld()->GetDeltaSeconds(), 0.0f));
 }
