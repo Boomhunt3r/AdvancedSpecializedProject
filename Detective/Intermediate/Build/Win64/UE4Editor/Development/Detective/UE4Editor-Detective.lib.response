@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Detective.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\DetectiveEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\PlayerPawn.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\Detective.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\Detective.init.gen.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\PlayerPawn.gen.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\Default.rc2.res"
+/OUT:"D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\UE4Editor-Detective.lib"
+/INCLUDE:IMPLEMENT_MODULE_Detective
