@@ -22,3 +22,7 @@ void AInteractBase::Tick(float DeltaTime)
 
 }
 
+void AInteractBase::Interact_Implementation(AActor* OtherActor)
+{
+
+}
