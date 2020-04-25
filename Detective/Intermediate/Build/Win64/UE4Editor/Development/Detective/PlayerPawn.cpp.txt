@@ -1,0 +1,9 @@
+D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\Definitions.Detective.h
+d:\advancedspecializedproject\detective\source\detective\character\player\PlayerPawn.h
+D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Inc\Detective\PlayerPawn.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
