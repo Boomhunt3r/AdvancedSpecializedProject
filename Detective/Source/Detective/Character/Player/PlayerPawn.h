@@ -37,25 +37,25 @@ public:
 
 #pragma region UPROPERTY
 	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = "Player")
-	UCapsuleComponent* Capsule = nullptr;
+		UCapsuleComponent* Capsule = nullptr;
 
 	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = "Player")
-	USkeletalMeshComponent* Mesh = nullptr;
+		USkeletalMeshComponent* Mesh = nullptr;
 
 	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = "Player")
-	USceneComponent* CameraRoot = nullptr;
+		USceneComponent* CameraRoot = nullptr;
 
 	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = "Player")
-	UCameraComponent* Camera = nullptr;
+		UCameraComponent* Camera = nullptr;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Player Movement")
-	float Speed = 0.0f;
+		float Speed = 0.0f;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Player Movement")
-	float RotationSpeed = 0.0f;
+		float RotationSpeed = 0.0f;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Player Movement")
-	float JumpForce = 0.0f;
+		float JumpForce = 0.0f;
 #pragma endregion
 
 #pragma region UFUNCTION
@@ -66,12 +66,13 @@ public:
 	void AddLogbookEntry();
 
 	UFUNCTION(BlueprintCallable, Category = "Player Movement")
-	void Move(FVector2D _movement);
+		void Move(FVector2D _movement);
 
 	UFUNCTION(BlueprintCallable, Category = "Player Movement")
-	void Rotate(FVector2D _rotation);
+		void Rotate(FVector2D _rotation);
 
-	void Interact();
+	UFUNCTION(BlueprintCallable, Category = "Player Action")
+		void Interact();
 #pragma endregion
 
 

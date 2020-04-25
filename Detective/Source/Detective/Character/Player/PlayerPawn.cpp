@@ -1,5 +1,6 @@
 #pragma region game include
 #include "PlayerPawn.h"  
+#include "../../Gameplay/Interact/Base/InteractBase.h"
 #pragma endregion
 
 #pragma region UE4 include
@@ -54,6 +55,21 @@ void APlayerPawn::Rotate(FVector2D _rotation)
 	// set pitch of camera root and add rotation to capsule yaw
 	CameraRoot->SetRelativeRotation(FRotator(angle, CameraRoot->RelativeRotation.Yaw, 0.0f));
 	Capsule->AddLocalRotation(FRotator(0.0f, _rotation.X * RotationSpeed * GetWorld()->GetDeltaSeconds(), 0.0f));
+}
+
+void APlayerPawn::Interact()
+{
+	// save hit result from line trace from camera forward
+	FHitResult result;
+	GetWorld()->LineTraceSingleByChannel(result, Camera->GetComponentLocation(),
+		Camera->GetComponentLocation() + Camera->GetForwardVector() *250.0f, ECollisionChannel::ECC_Camera);
+
+	// try to cast hit actor to interact base
+	AInteractBase* pInteract = Cast<AInteractBase>(result.GetActor());
+
+	// if interact base valid call interact from hit actor
+	if (pInteract)
+		pInteract->Interact(this);
 }
 
 // Called when the game starts or when spawned
