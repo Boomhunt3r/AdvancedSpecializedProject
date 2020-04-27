@@ -1,3 +1,0 @@
-D:\AdvancedSpecializedProject\Detective\Source\Detective\Detective.Build.cs
-D:\AdvancedSpecializedProject\Detective\Source\Detective.Target.cs
-D:\AdvancedSpecializedProject\Detective\Source\DetectiveEditor.Target.cs

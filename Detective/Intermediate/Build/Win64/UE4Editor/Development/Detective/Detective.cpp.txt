@@ -1,2 +1,0 @@
-D:\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\Definitions.Detective.h
-d:\advancedspecializedproject\detective\source\detective\Detective.h
