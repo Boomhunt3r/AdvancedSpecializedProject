@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Source\Detective\Detective.Build.cs
 F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Source\Detective.Target.cs
 F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Source\DetectiveEditor.Target.cs
+=======
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Source\Detective\Detective.Build.cs
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Source\Detective.Target.cs
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Source\DetectiveEditor.Target.cs
+>>>>>>> Stashed changes
