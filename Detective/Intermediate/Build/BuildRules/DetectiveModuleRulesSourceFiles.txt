@@ -1,5 +1,0 @@
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Source\Detective\Detective.Build.cs
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\FMODStudio.Build.cs
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\FMODStudioEditor.Build.cs
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Source\Detective.Target.cs
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Source\DetectiveEditor.Target.cs

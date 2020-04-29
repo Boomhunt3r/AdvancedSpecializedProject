@@ -1,2 +1,0 @@
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Intermediate\Build\Win64\UE4Editor\Development\Detective\Definitions.Detective.h
-g:\projects\bachelorgruppenarbeit\advancedspecializedproject\detective\source\detective\Detective.h

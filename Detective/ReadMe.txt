@@ -2,5 +2,8 @@ Bitte nur folgende Ordner Pushen wenn ihr euren Branch in den Develop mergen wol
 Config
 Content
 Source
+fmod_project
+Plugins
+ReadMe
 und die uproject Datei.
 Danke
