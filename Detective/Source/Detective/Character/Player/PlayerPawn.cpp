@@ -39,10 +39,70 @@ APlayerPawn::APlayerPawn()
 
 void APlayerPawn::Move(FVector2D _movement)
 {
+	// calculate location to add to capsule by movement and movement speed
 	FVector movement = Capsule->GetForwardVector() * _movement.Y * Speed * GetWorld()->GetDeltaSeconds();
 	movement += Capsule->GetRightVector() * _movement.X * Speed * GetWorld()->GetDeltaSeconds();
+	movement.Z += 1.0f;
 
-	Capsule->AddWorldOffset(movement, true);
+	// movement hit result
+	FHitResult moveResult;
+
+	// try to add world offset by movement
+	Capsule->AddWorldOffset(movement, true, &moveResult);
+
+	// if movement blocking
+	/*if (moveResult.bBlockingHit)
+		// if hit actopr valid and has tag moveable
+		if (moveResult.GetActor() && moveResult.GetActor()->ActorHasTag("Moveable"))
+			// call move on moveable actor
+			if (((AMoveable*)(moveResult.GetActor()))->Move(FVector(movement.X, movement.Y, 0.0f)))
+				// if moveable actor moved move player
+				Capsule->AddWorldOffset(movement);*/
+
+	// raycast hit for movement vertical
+	FHitResult hit;
+
+	// calculate start position of raycast
+	FVector startPos = Capsule->GetComponentLocation() - FVector(0.0f, 0.0f, 45.0f);
+	startPos += Capsule->GetForwardVector() * _movement.Y * Capsule->GetUnscaledCapsuleRadius();
+	startPos += Capsule->GetRightVector() * _movement.X * Capsule->GetUnscaledCapsuleRadius();
+
+	// set end position of raycast down
+	FVector endPos = startPos - FVector(0.0f, 0.0f, 45.0f);
+
+	// raycast down
+	GetWorld()->LineTraceSingleByChannel(hit, startPos, endPos, ECollisionChannel::ECC_Visibility);
+
+	// if raycast blocking hit and hit is upper feet
+	if (hit.bBlockingHit && hit.Distance <= 40.0f)
+	{
+		// position to set
+		FVector pos = Capsule->GetComponentLocation();
+		pos.Z = hit.Location.Z + Capsule->GetUnscaledCapsuleHalfHeight() + 5.0f;
+
+		// set position to hit location and reset fall time
+		Capsule->SetWorldLocation(pos);
+		m_fallTime = 0.0f;
+	}
+
+	// if no blocking hit or below player
+	else
+	{
+		// increase fall time
+		m_fallTime += GetWorld()->GetDeltaSeconds();
+
+		// calculate next position below
+		FVector pos = Capsule->GetComponentLocation();
+		pos.Z -= m_fallTime * 981.0f * GetWorld()->GetDeltaSeconds();
+
+		// try to move down and save hit result of fall
+		FHitResult resultFall;
+		Capsule->SetWorldLocation(pos, true, &resultFall);
+
+		// if blocking hit reset fall time
+		if (resultFall.bBlockingHit)
+			m_fallTime = 0.0f;
+	}
 }
 
 void APlayerPawn::Rotate(FVector2D _rotation)
