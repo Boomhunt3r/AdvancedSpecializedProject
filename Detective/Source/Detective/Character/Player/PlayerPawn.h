@@ -77,6 +77,13 @@ public:
 
 
 protected:
+#pragma region protected primitive variable
+	/// <summary>
+	/// fall time in seconds
+	/// </summary>
+	float m_fallTime = 0.0f;
+#pragma endregion
+
 #pragma region protected override function
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
