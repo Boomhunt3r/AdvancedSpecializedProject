@@ -40,6 +40,8 @@ APlayerPawn::APlayerPawn()
 
 void APlayerPawn::Move(FVector2D _movement)
 {
+	float positionZ = Capsule->GetComponentLocation().Z;
+
 	FVector movement = Capsule->GetForwardVector() * _movement.Y * Speed * GetWorld()->GetDeltaSeconds();
 	movement += Capsule->GetRightVector() * _movement.X * Speed * GetWorld()->GetDeltaSeconds();
 	movement.Z += 1.0f;
@@ -47,6 +49,8 @@ void APlayerPawn::Move(FVector2D _movement)
 	FHitResult moveResult;
 
 	Capsule->AddWorldOffset(movement, true, &moveResult);
+
+	Capsule->SetWorldLocation(FVector(Capsule->GetComponentLocation().X, Capsule->GetComponentLocation().Y, positionZ));
 
 	if (moveResult.bBlockingHit)
 		if (moveResult.GetActor() && moveResult.GetActor()->ActorHasTag("Moveable"))
@@ -56,17 +60,17 @@ void APlayerPawn::Move(FVector2D _movement)
 	FHitResult hit;
 
 	FVector startPos = Capsule->GetComponentLocation();
-	startPos += Capsule->GetForwardVector() * _movement.Y * Capsule->GetUnscaledCapsuleRadius();
-	startPos += Capsule->GetRightVector() * _movement.X * Capsule->GetUnscaledCapsuleRadius();
+	startPos += Capsule->GetForwardVector() * _movement.Y * Capsule->GetScaledCapsuleRadius();
+	startPos += Capsule->GetRightVector() * _movement.X * Capsule->GetScaledCapsuleRadius();
 
-	FVector endPos = startPos - FVector(0.0f, 0.0f, 100.0f);
+	FVector endPos = startPos - FVector(0.0f, 0.0f, Capsule->GetScaledCapsuleHalfHeight());
 
 	GetWorld()->LineTraceSingleByChannel(hit, startPos, endPos, ECollisionChannel::ECC_Visibility);
 
-	if (hit.bBlockingHit && hit.Distance <= 45.0f)
+	if (hit.bBlockingHit)
 	{
 		FVector pos = Capsule->GetComponentLocation();
-		pos.Z = hit.Location.Z + Capsule->GetUnscaledCapsuleHalfHeight() + 5.0f;
+		pos.Z = hit.Location.Z + Capsule->GetScaledCapsuleHalfHeight();
 
 		Capsule->SetWorldLocation(pos);
 		m_fallTime = 0.0f;
