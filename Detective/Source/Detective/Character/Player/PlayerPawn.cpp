@@ -13,7 +13,7 @@
 
 // Sets default values
 APlayerPawn::APlayerPawn()
-{	
+{
 	// enable update every frame
 	PrimaryActorTick.bCanEverTick = true;
 
@@ -85,6 +85,8 @@ void APlayerPawn::Move(FVector2D _movement)
 		FHitResult resultFall;
 		Capsule->SetWorldLocation(pos, true, &resultFall);
 
+		m_IsJumping = false;
+
 		if (resultFall.bBlockingHit)
 			m_fallTime = 0.0f;
 	}
@@ -107,7 +109,7 @@ void APlayerPawn::Interact()
 	// save hit result from line trace from camera forward
 	FHitResult result;
 	GetWorld()->LineTraceSingleByChannel(result, Camera->GetComponentLocation(),
-		Camera->GetComponentLocation() + Camera->GetForwardVector() *300.0f, ECollisionChannel::ECC_Camera);
+		Camera->GetComponentLocation() + Camera->GetForwardVector() * 300.0f, ECollisionChannel::ECC_Camera);
 
 	// try to cast hit actor to interact base
 	AInteractBase* pInteract = Cast<AInteractBase>(result.GetActor());
@@ -119,14 +121,23 @@ void APlayerPawn::Interact()
 
 void APlayerPawn::Jump(float _force)
 {
+	if (m_IsJumping == false)
+	{
+		FVector pos = Capsule->GetComponentLocation();
 
+		pos.Z += _force;
+
+		Capsule->AddWorldOffset(pos);
+
+		m_IsJumping = true;
+	}
 }
 
 // Called when the game starts or when spawned
 void APlayerPawn::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
 }
 
 // Called every frame

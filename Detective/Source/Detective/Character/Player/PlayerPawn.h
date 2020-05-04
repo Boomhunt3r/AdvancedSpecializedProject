@@ -76,6 +76,7 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Player Action")
 		void Jump(float _force);
+
 #pragma endregion
 
 
@@ -85,6 +86,8 @@ protected:
 	/// fall time in seconds
 	/// </summary>
 	float m_fallTime = 0.0f;
+
+	bool m_IsJumping = false;
 #pragma endregion
 
 #pragma region protected override function
