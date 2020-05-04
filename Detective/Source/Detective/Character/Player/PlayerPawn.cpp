@@ -75,7 +75,6 @@ void APlayerPawn::Move(FVector2D _movement)
 		Capsule->SetWorldLocation(pos);
 		m_fallTime = 0.0f;
 	}
-
 	else
 	{
 		m_fallTime += GetWorld()->GetDeltaSeconds();
@@ -108,7 +107,7 @@ void APlayerPawn::Interact()
 	// save hit result from line trace from camera forward
 	FHitResult result;
 	GetWorld()->LineTraceSingleByChannel(result, Camera->GetComponentLocation(),
-		Camera->GetComponentLocation() + Camera->GetForwardVector() *250.0f, ECollisionChannel::ECC_Camera);
+		Camera->GetComponentLocation() + Camera->GetForwardVector() *300.0f, ECollisionChannel::ECC_Camera);
 
 	// try to cast hit actor to interact base
 	AInteractBase* pInteract = Cast<AInteractBase>(result.GetActor());
@@ -116,6 +115,11 @@ void APlayerPawn::Interact()
 	// if interact base valid call interact from hit actor
 	if (pInteract)
 		pInteract->Interact(this);
+}
+
+void APlayerPawn::Jump(float _force)
+{
+
 }
 
 // Called when the game starts or when spawned

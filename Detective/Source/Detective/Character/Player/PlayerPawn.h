@@ -73,6 +73,9 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Player Action")
 		void Interact();
+
+	UFUNCTION(BlueprintCallable, Category = "Player Action")
+		void Jump(float _force);
 #pragma endregion
 
 
