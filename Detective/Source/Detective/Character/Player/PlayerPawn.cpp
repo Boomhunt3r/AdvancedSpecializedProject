@@ -1,6 +1,7 @@
 #pragma region game include
 #include "PlayerPawn.h"  
 #include "../../Gameplay/Interact/Base/InteractBase.h"
+#include "../../Gameplay/Moveable/Moveable.h"
 #pragma endregion
 
 #pragma region UE4 include
@@ -12,7 +13,7 @@
 
 // Sets default values
 APlayerPawn::APlayerPawn()
-{	
+{
 	// enable update every frame
 	PrimaryActorTick.bCanEverTick = true;
 
@@ -39,10 +40,56 @@ APlayerPawn::APlayerPawn()
 
 void APlayerPawn::Move(FVector2D _movement)
 {
+	float positionZ = Capsule->GetComponentLocation().Z;
+
 	FVector movement = Capsule->GetForwardVector() * _movement.Y * Speed * GetWorld()->GetDeltaSeconds();
 	movement += Capsule->GetRightVector() * _movement.X * Speed * GetWorld()->GetDeltaSeconds();
+	movement.Z += 1.0f;
 
-	Capsule->AddWorldOffset(movement, true);
+	FHitResult moveResult;
+
+	Capsule->AddWorldOffset(movement, true, &moveResult);
+
+	Capsule->SetWorldLocation(FVector(Capsule->GetComponentLocation().X, Capsule->GetComponentLocation().Y, positionZ));
+
+	if (moveResult.bBlockingHit)
+		if (moveResult.GetActor() && moveResult.GetActor()->ActorHasTag("Moveable"))
+			if (((AMoveable*)(moveResult.GetActor()))->Move(FVector(movement.X, movement.Y, 0.0f)))
+				Capsule->AddWorldOffset(movement);
+
+	FHitResult hit;
+
+	FVector startPos = Capsule->GetComponentLocation();
+	startPos += Capsule->GetForwardVector() * _movement.Y * Capsule->GetScaledCapsuleRadius();
+	startPos += Capsule->GetRightVector() * _movement.X * Capsule->GetScaledCapsuleRadius();
+
+	FVector endPos = startPos - FVector(0.0f, 0.0f, Capsule->GetScaledCapsuleHalfHeight());
+
+	GetWorld()->LineTraceSingleByChannel(hit, startPos, endPos, ECollisionChannel::ECC_Visibility);
+
+	if (hit.bBlockingHit)
+	{
+		FVector pos = Capsule->GetComponentLocation();
+		pos.Z = hit.Location.Z + Capsule->GetScaledCapsuleHalfHeight();
+
+		Capsule->SetWorldLocation(pos);
+		m_fallTime = 0.0f;
+	}
+	else
+	{
+		m_fallTime += GetWorld()->GetDeltaSeconds();
+
+		FVector pos = Capsule->GetComponentLocation();
+		pos.Z -= m_fallTime * 981.0f * GetWorld()->GetDeltaSeconds();
+
+		FHitResult resultFall;
+		Capsule->SetWorldLocation(pos, true, &resultFall);
+
+		m_IsJumping = false;
+
+		if (resultFall.bBlockingHit)
+			m_fallTime = 0.0f;
+	}
 }
 
 void APlayerPawn::Rotate(FVector2D _rotation)
@@ -62,7 +109,7 @@ void APlayerPawn::Interact()
 	// save hit result from line trace from camera forward
 	FHitResult result;
 	GetWorld()->LineTraceSingleByChannel(result, Camera->GetComponentLocation(),
-		Camera->GetComponentLocation() + Camera->GetForwardVector() *250.0f, ECollisionChannel::ECC_Camera);
+		Camera->GetComponentLocation() + Camera->GetForwardVector() * 300.0f, ECollisionChannel::ECC_Camera);
 
 	// try to cast hit actor to interact base
 	AInteractBase* pInteract = Cast<AInteractBase>(result.GetActor());
@@ -72,11 +119,25 @@ void APlayerPawn::Interact()
 		pInteract->Interact(this);
 }
 
+void APlayerPawn::Jump(float _force)
+{
+	if (m_IsJumping == false)
+	{
+		FVector pos = Capsule->GetComponentLocation();
+
+		pos.Z += _force;
+
+		Capsule->AddWorldOffset(pos);
+
+		m_IsJumping = true;
+	}
+}
+
 // Called when the game starts or when spawned
 void APlayerPawn::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
 }
 
 // Called every frame
