@@ -1,6 +1,7 @@
 #pragma region game include
 #include "PlayerPawn.h"  
 #include "../../Gameplay/Interact/Base/InteractBase.h"
+#include "../../Gameplay/Moveable/Moveable.h"
 #pragma endregion
 
 #pragma region UE4 include
@@ -12,7 +13,7 @@
 
 // Sets default values
 APlayerPawn::APlayerPawn()
-{	
+{
 	// enable update every frame
 	PrimaryActorTick.bCanEverTick = true;
 
@@ -39,67 +40,53 @@ APlayerPawn::APlayerPawn()
 
 void APlayerPawn::Move(FVector2D _movement)
 {
-	// calculate location to add to capsule by movement and movement speed
+	float positionZ = Capsule->GetComponentLocation().Z;
+
 	FVector movement = Capsule->GetForwardVector() * _movement.Y * Speed * GetWorld()->GetDeltaSeconds();
 	movement += Capsule->GetRightVector() * _movement.X * Speed * GetWorld()->GetDeltaSeconds();
 	movement.Z += 1.0f;
 
-	// movement hit result
 	FHitResult moveResult;
 
-	// try to add world offset by movement
 	Capsule->AddWorldOffset(movement, true, &moveResult);
 
-	// if movement blocking
-	/*if (moveResult.bBlockingHit)
-		// if hit actopr valid and has tag moveable
-		if (moveResult.GetActor() && moveResult.GetActor()->ActorHasTag("Moveable"))
-			// call move on moveable actor
-			if (((AMoveable*)(moveResult.GetActor()))->Move(FVector(movement.X, movement.Y, 0.0f)))
-				// if moveable actor moved move player
-				Capsule->AddWorldOffset(movement);*/
+	Capsule->SetWorldLocation(FVector(Capsule->GetComponentLocation().X, Capsule->GetComponentLocation().Y, positionZ));
 
-	// raycast hit for movement vertical
+	if (moveResult.bBlockingHit)
+		if (moveResult.GetActor() && moveResult.GetActor()->ActorHasTag("Moveable"))
+			if (((AMoveable*)(moveResult.GetActor()))->Move(FVector(movement.X, movement.Y, 0.0f)))
+				Capsule->AddWorldOffset(movement);
+
 	FHitResult hit;
 
-	// calculate start position of raycast
-	FVector startPos = Capsule->GetComponentLocation() - FVector(0.0f, 0.0f, 45.0f);
-	startPos += Capsule->GetForwardVector() * _movement.Y * Capsule->GetUnscaledCapsuleRadius();
-	startPos += Capsule->GetRightVector() * _movement.X * Capsule->GetUnscaledCapsuleRadius();
+	FVector startPos = Capsule->GetComponentLocation();
+	startPos += Capsule->GetForwardVector() * _movement.Y * Capsule->GetScaledCapsuleRadius();
+	startPos += Capsule->GetRightVector() * _movement.X * Capsule->GetScaledCapsuleRadius();
 
-	// set end position of raycast down
-	FVector endPos = startPos - FVector(0.0f, 0.0f, 45.0f);
+	FVector endPos = startPos - FVector(0.0f, 0.0f, Capsule->GetScaledCapsuleHalfHeight());
 
-	// raycast down
 	GetWorld()->LineTraceSingleByChannel(hit, startPos, endPos, ECollisionChannel::ECC_Visibility);
 
-	// if raycast blocking hit and hit is upper feet
-	if (hit.bBlockingHit && hit.Distance <= 40.0f)
+	if (hit.bBlockingHit)
 	{
-		// position to set
 		FVector pos = Capsule->GetComponentLocation();
-		pos.Z = hit.Location.Z + Capsule->GetUnscaledCapsuleHalfHeight() + 5.0f;
+		pos.Z = hit.Location.Z + Capsule->GetScaledCapsuleHalfHeight();
 
-		// set position to hit location and reset fall time
 		Capsule->SetWorldLocation(pos);
 		m_fallTime = 0.0f;
 	}
-
-	// if no blocking hit or below player
 	else
 	{
-		// increase fall time
 		m_fallTime += GetWorld()->GetDeltaSeconds();
 
-		// calculate next position below
 		FVector pos = Capsule->GetComponentLocation();
 		pos.Z -= m_fallTime * 981.0f * GetWorld()->GetDeltaSeconds();
 
-		// try to move down and save hit result of fall
 		FHitResult resultFall;
 		Capsule->SetWorldLocation(pos, true, &resultFall);
 
-		// if blocking hit reset fall time
+		m_IsJumping = false;
+
 		if (resultFall.bBlockingHit)
 			m_fallTime = 0.0f;
 	}
@@ -122,7 +109,7 @@ void APlayerPawn::Interact()
 	// save hit result from line trace from camera forward
 	FHitResult result;
 	GetWorld()->LineTraceSingleByChannel(result, Camera->GetComponentLocation(),
-		Camera->GetComponentLocation() + Camera->GetForwardVector() *250.0f, ECollisionChannel::ECC_Camera);
+		Camera->GetComponentLocation() + Camera->GetForwardVector() * 300.0f, ECollisionChannel::ECC_Camera);
 
 	// try to cast hit actor to interact base
 	AInteractBase* pInteract = Cast<AInteractBase>(result.GetActor());
@@ -132,11 +119,25 @@ void APlayerPawn::Interact()
 		pInteract->Interact(this);
 }
 
+void APlayerPawn::Jump(float _force)
+{
+	if (m_IsJumping == false)
+	{
+		FVector pos = Capsule->GetComponentLocation();
+
+		pos.Z += _force;
+
+		Capsule->AddWorldOffset(pos);
+
+		m_IsJumping = true;
+	}
+}
+
 // Called when the game starts or when spawned
 void APlayerPawn::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
 }
 
 // Called every frame
