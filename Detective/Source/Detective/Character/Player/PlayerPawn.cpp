@@ -2,6 +2,7 @@
 #include "PlayerPawn.h"  
 #include "../../Gameplay/Interact/Base/InteractBase.h"
 #include "../../Gameplay/Moveable/Moveable.h"
+#include "../../Gameplay/DetectiveView/DetectiveView.h"
 #pragma endregion
 
 #pragma region UE4 include
@@ -9,7 +10,7 @@
 #include "Components/SkeletalMeshComponent.h"
 #include "Camera/CameraComponent.h"
 #pragma endregion
-
+#include "DrawDebugHelpers.h"
 
 // Sets default values
 APlayerPawn::APlayerPawn()
@@ -85,8 +86,6 @@ void APlayerPawn::Move(FVector2D _movement)
 		FHitResult resultFall;
 		Capsule->SetWorldLocation(pos, true, &resultFall);
 
-		m_IsJumping = false;
-
 		if (resultFall.bBlockingHit)
 			m_fallTime = 0.0f;
 	}
@@ -119,17 +118,25 @@ void APlayerPawn::Interact()
 		pInteract->Interact(this);
 }
 
-void APlayerPawn::Jump(float _force)
+void APlayerPawn::ActivateView()
 {
-	if (m_IsJumping == false)
+	FHitResult hit;
+	FCollisionShape MySphere = FCollisionShape::MakeSphere(100.0f);
+
+	FVector start = Capsule->GetComponentLocation();
+	FVector end = Capsule->GetComponentLocation() + FVector(5.0f, 5.0f, 5.0f);
+
+	DrawDebugSphere(GetWorld(), Capsule->GetComponentLocation(), MySphere.GetSphereRadius(), 5.0f, FColor::Purple, true);
+
+	GetWorld()->SweepSingleByChannel(hit, start, end, FQuat::Identity, ECollisionChannel::ECC_Camera, MySphere);
+
+	if (hit.bBlockingHit)
 	{
-		FVector pos = Capsule->GetComponentLocation();
+		if (hit.GetActor() && hit.GetActor()->ActorHasTag("View"))
+		{
+			((ADetectiveView*)(hit.GetActor()))->Destroy();
 
-		pos.Z += _force;
-
-		Capsule->AddWorldOffset(pos);
-
-		m_IsJumping = true;
+		}
 	}
 }
 
