@@ -19,13 +19,13 @@ ADetectiveView::ADetectiveView()
 	Mesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Mesh"));
 	Mesh->SetupAttachment(pRoot);
 
-	Tags.Add("Detective View");
+	Tags.Add("View");
 
 }
 
 void ADetectiveView::ActivateShader()
 {
-
+	AActor::Destroy();
 }
 
 // Called when the game starts or when spawned

@@ -134,7 +134,7 @@ void APlayerPawn::ActivateView()
 	{
 		if (hit.GetActor() && hit.GetActor()->ActorHasTag("View"))
 		{
-			((ADetectiveView*)(hit.GetActor()))->Destroy();
+			((ADetectiveView*)(hit.GetActor()))->ActivateShader();
 
 		}
 	}
