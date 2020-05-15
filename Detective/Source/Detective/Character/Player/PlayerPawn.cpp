@@ -1,5 +1,6 @@
 #pragma region game include
 #include "PlayerPawn.h"  
+#include "Animation/PlayerAnimation.h"
 #include "../../Gameplay/Interact/Base/InteractBase.h"
 #include "../../Gameplay/Moveable/Moveable.h"
 #include "../../Gameplay/DetectiveView/DetectiveView.h"
@@ -39,12 +40,40 @@ APlayerPawn::APlayerPawn()
 	Camera->SetupAttachment(CameraRoot);
 }
 
-void APlayerPawn::Move(FVector2D _movement)
+void APlayerPawn::Move(FVector2D Movement, bool Running)
 {
+	if (Movement.X != 0.0f || Movement.Y != 0.0f)
+	{
+		if (Running && !m_pAnimation->IsRun)
+		{
+			m_pAnimation->IsIdle = false;
+			m_pAnimation->IsWalk = false;
+			m_pAnimation->IsRun = true;
+		}
+		else if (!Running && !m_pAnimation->IsWalk)
+		{
+			m_pAnimation->IsIdle = false;
+			m_pAnimation->IsRun = false;
+			m_pAnimation->IsWalk = true;
+		}
+	}
+	else
+	{
+		if (!m_pAnimation->IsIdle)
+		{
+			m_pAnimation->IsRun = false;
+			m_pAnimation->IsWalk = false;
+			m_pAnimation->IsIdle = true;
+		}
+	}
+
+	if (Running)
+		Movement *= 2.0f;
+
 	float positionZ = Capsule->GetComponentLocation().Z;
 
-	FVector movement = Capsule->GetForwardVector() * _movement.Y * Speed * GetWorld()->GetDeltaSeconds();
-	movement += Capsule->GetRightVector() * _movement.X * Speed * GetWorld()->GetDeltaSeconds();
+	FVector movement = Capsule->GetForwardVector() * Movement.Y * Speed * GetWorld()->GetDeltaSeconds();
+	movement += Capsule->GetRightVector() * Movement.X * Speed * GetWorld()->GetDeltaSeconds();
 	movement.Z += 1.0f;
 
 	FHitResult moveResult;
@@ -61,8 +90,8 @@ void APlayerPawn::Move(FVector2D _movement)
 	FHitResult hit;
 
 	FVector startPos = Capsule->GetComponentLocation();
-	startPos += Capsule->GetForwardVector() * _movement.Y * Capsule->GetScaledCapsuleRadius();
-	startPos += Capsule->GetRightVector() * _movement.X * Capsule->GetScaledCapsuleRadius();
+	startPos += Capsule->GetForwardVector() * Movement.Y * Capsule->GetScaledCapsuleRadius();
+	startPos += Capsule->GetRightVector() * Movement.X * Capsule->GetScaledCapsuleRadius();
 
 	FVector endPos = startPos - FVector(0.0f, 0.0f, Capsule->GetScaledCapsuleHalfHeight());
 
@@ -145,13 +174,13 @@ void APlayerPawn::BeginPlay()
 {
 	Super::BeginPlay();
 
+	m_pAnimation = (UPlayerAnimation*)Mesh->GetAnimInstance();
 }
 
 // Called every frame
 void APlayerPawn::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
 }
 
 // Called to bind functionality to input
