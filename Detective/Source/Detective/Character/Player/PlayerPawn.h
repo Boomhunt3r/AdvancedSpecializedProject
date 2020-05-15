@@ -14,6 +14,7 @@
 #pragma region forward decleration
 class UCapsuleComponent;
 class UCameraComponent;
+class UPlayerAnimation;
 #pragma endregion
 
 
@@ -66,28 +67,31 @@ public:
 	void AddLogbookEntry();
 
 	UFUNCTION(BlueprintCallable, Category = "Player Movement")
-		void Move(FVector2D _movement);
+	void Move(FVector2D Movement, bool Running);
 
 	UFUNCTION(BlueprintCallable, Category = "Player Movement")
-		void Rotate(FVector2D _rotation);
+	void Rotate(FVector2D _rotation);
 
 	UFUNCTION(BlueprintCallable, Category = "Player Action")
-		void Interact();
+	void Interact();
 
 	UFUNCTION(BlueprintCallable, Category = "Player Action")
-		void Jump(float _force);
-
+	void ActivateView();
 #pragma endregion
 
 
 protected:
+#pragma region protected pointer
+	UPlayerAnimation* m_pAnimation = nullptr;
+#pragma endregion
+
+
 #pragma region protected primitive variable
 	/// <summary>
 	/// fall time in seconds
 	/// </summary>
 	float m_fallTime = 0.0f;
 
-	bool m_IsJumping = false;
 #pragma endregion
 
 #pragma region protected override function
