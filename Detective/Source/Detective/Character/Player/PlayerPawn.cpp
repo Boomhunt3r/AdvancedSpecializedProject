@@ -4,6 +4,7 @@
 #include "../../Gameplay/Interact/Base/InteractBase.h"
 #include "../../Gameplay/Moveable/Moveable.h"
 #include "../../Gameplay/DetectiveView/DetectiveView.h"
+#include "../../UI/Logbook/Logbook.h"
 #pragma endregion
 
 #pragma region UE4 include
@@ -11,7 +12,10 @@
 #include "Components/SkeletalMeshComponent.h"
 #include "Camera/CameraComponent.h"
 #pragma endregion
-#include "DrawDebugHelpers.h"
+#pragma region helper
+#include "DrawDebugHelpers.h"  
+#pragma endregion
+
 
 // Sets default values
 APlayerPawn::APlayerPawn()
@@ -38,6 +42,40 @@ APlayerPawn::APlayerPawn()
 	// create default camera component and attach to camera root
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
 	Camera->SetupAttachment(CameraRoot);
+}
+
+void APlayerPawn::SetLogbook(ULogbook* Logbook)
+{
+	m_pLogbook = Logbook;
+	m_pLogbook->SetVisibility(ESlateVisibility::Hidden);
+}
+
+void APlayerPawn::ShowHideLogbook(bool Visible)
+{
+	if (Visible)
+	{
+		m_pLogbook->SetVisibility(ESlateVisibility::Visible);
+
+		((APlayerController*)(GetController()))->bShowMouseCursor = true;
+
+		FInputModeGameAndUI im;
+		im.SetLockMouseToViewportBehavior(EMouseLockMode::LockInFullscreen);
+		((APlayerController*)(GetController()))->SetInputMode(im);
+	}
+	else
+	{
+		m_pLogbook->SetVisibility(ESlateVisibility::Hidden);
+
+		((APlayerController*)(GetController()))->bShowMouseCursor = false;
+		FInputModeGameOnly im;
+		((APlayerController*)(GetController()))->SetInputMode(im);
+	}
+}
+
+void APlayerPawn::AddLogbookEntry(int ID, FString Text)
+{
+	m_pLogbook->AddEntry(ID, Text);
+	m_pLogbook->UpdateEntries();
 }
 
 void APlayerPawn::Move(FVector2D Movement, bool Running)
