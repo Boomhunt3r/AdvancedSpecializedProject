@@ -14,6 +14,7 @@
 #pragma region forward decleration
 class UCapsuleComponent;
 class UCameraComponent;
+class ULogbook;
 class UPlayerAnimation;
 #pragma endregion
 
@@ -60,11 +61,14 @@ public:
 #pragma endregion
 
 #pragma region UFUNCTION
-	void SetLogbook();
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void SetLogbook(ULogbook* Logbook);
 
-	void ShowHideLogbook();
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void ShowHideLogbook(bool Visible);
 
-	void AddLogbookEntry();
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void AddLogbookEntry(int ID, FString Text);
 
 	UFUNCTION(BlueprintCallable, Category = "Player Movement")
 	void Move(FVector2D Movement, bool Running);
@@ -82,6 +86,8 @@ public:
 
 protected:
 #pragma region protected pointer
+	ULogbook* m_pLogbook = nullptr;
+
 	UPlayerAnimation* m_pAnimation = nullptr;
 #pragma endregion
 
