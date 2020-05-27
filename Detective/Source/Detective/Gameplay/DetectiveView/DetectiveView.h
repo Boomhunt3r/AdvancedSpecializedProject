@@ -1,10 +1,14 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
+#pragma region UE4 include
 #include "CoreMinimal.h"
-#include "GameFramework/Actor.h"
-#include "DetectiveView.generated.h"
+#include "GameFramework/Actor.h"  
+#pragma endregion
+
+#pragma region game include
+#include "DetectiveView.generated.h"  
+#pragma endregion
+
 
 UCLASS()
 class DETECTIVE_API ADetectiveView : public AActor
@@ -20,6 +24,7 @@ public:
 #pragma region UPROPERTY
 	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = "Detective View")
 	UStaticMeshComponent* Mesh = nullptr;
+
 #pragma endregion
 
 #pragma region public function
@@ -35,5 +40,11 @@ protected:
 public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+private:
+#pragma region private primitave Variable
+	bool isActive = false;
+	float Timer = 0.0f;
+#pragma endregion
 
 };
