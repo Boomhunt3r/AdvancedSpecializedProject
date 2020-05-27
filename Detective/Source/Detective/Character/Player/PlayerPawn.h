@@ -97,7 +97,6 @@ protected:
 	/// fall time in seconds
 	/// </summary>
 	float m_fallTime = 0.0f;
-
 #pragma endregion
 
 #pragma region protected override function

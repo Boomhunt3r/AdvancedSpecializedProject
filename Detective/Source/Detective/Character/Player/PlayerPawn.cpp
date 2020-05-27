@@ -187,24 +187,28 @@ void APlayerPawn::Interact()
 
 void APlayerPawn::ActivateView()
 {
-	FHitResult hit;
-	FCollisionShape MySphere = FCollisionShape::MakeSphere(100.0f);
+
+	TArray<FHitResult> hits;
+	FCollisionShape MySphere = FCollisionShape::MakeSphere(500.0f);
 
 	FVector start = Capsule->GetComponentLocation();
 	FVector end = Capsule->GetComponentLocation() + FVector(5.0f, 5.0f, 5.0f);
 
-	DrawDebugSphere(GetWorld(), Capsule->GetComponentLocation(), MySphere.GetSphereRadius(), 5.0f, FColor::Purple, true);
+	DrawDebugSphere(GetWorld(), Capsule->GetComponentLocation(), MySphere.GetSphereRadius(), 100, FColor::Purple, true);
 
-	GetWorld()->SweepSingleByChannel(hit, start, end, FQuat::Identity, ECollisionChannel::ECC_Camera, MySphere);
-
-	if (hit.bBlockingHit)
+	GetWorld()->SweepMultiByChannel(hits, start, end, FQuat::Identity, ECollisionChannel::ECC_Camera, MySphere);
+	
+	for (auto& Hit : hits)
 	{
-		if (hit.GetActor() && hit.GetActor()->ActorHasTag("View"))
+		if (Hit.bBlockingHit)
 		{
-			((ADetectiveView*)(hit.GetActor()))->ActivateShader();
-
+			if (Hit.GetActor() && Hit.GetActor()->ActorHasTag("View"))
+			{
+				((ADetectiveView*)(Hit.GetActor()))->ActivateShader();
+			}
 		}
 	}
+
 }
 
 // Called when the game starts or when spawned
