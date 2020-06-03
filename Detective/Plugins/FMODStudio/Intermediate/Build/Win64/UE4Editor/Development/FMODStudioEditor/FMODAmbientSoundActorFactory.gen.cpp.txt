@@ -1,0 +1,7 @@
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor/Classes/FMODAmbientSoundActorFactory.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor\FMODAmbientSoundActorFactory.generated.h
