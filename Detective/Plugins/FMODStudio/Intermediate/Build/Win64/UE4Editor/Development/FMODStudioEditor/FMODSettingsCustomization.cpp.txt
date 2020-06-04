@@ -1,88 +1,88 @@
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODSettingsCustomization.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorModule.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/AES.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/DrawElements.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/ShapedTextFwd.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontCache.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Textures/TextureAtlas.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontTypes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontCache.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/PaintArgs.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/ShaderResourceManager.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Textures/SlateTextureData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Debugging/SlateDebugging.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateDebugging.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkitHost.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkit.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\SlateFwd.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailsView.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorDelegates.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IPropertyTypeCustomization.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomNodeBuilder.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\AssetThumbnail.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetDataTagMap.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetData.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\TickableEditorObject.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Tickable.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailPropertyRow.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSpacer.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\Settings/ProjectPackagingSettings.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ProjectPackagingSettings.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWidgetSwitcher.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\TextLayout.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Input/SButton.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODSettingsCustomization.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorModule.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/AES.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/DrawElements.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/ShapedTextFwd.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontCache.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Textures/TextureAtlas.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontTypes.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontCache.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/PaintArgs.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/ShaderResourceManager.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Textures/SlateTextureData.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Debugging/SlateDebugging.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateDebugging.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkitHost.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkit.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailsView.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorDelegates.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IPropertyTypeCustomization.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomNodeBuilder.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\UnrealEd\Public\AssetThumbnail.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetDataTagMap.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetData.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\UnrealEd\Public\TickableEditorObject.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Engine\Public\Tickable.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailPropertyRow.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSpacer.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\Settings/ProjectPackagingSettings.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ProjectPackagingSettings.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWidgetSwitcher.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\TextLayout.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Input/SButton.h
