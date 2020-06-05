@@ -2,7 +2,8 @@
 
 #pragma region UE4 include
 #include "CoreMinimal.h"
-#include "Blueprint/UserWidget.h"  
+#include "Blueprint/UserWidget.h" 
+#include "Components/Image.h"
 #pragma endregion
 
 #pragma region project include
@@ -21,15 +22,21 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Logbook")
 	TMap<int, FString> GetAllEntries();
+
+	UFUNCTION(BlueprintCallable, Category = "Logbook")
+	TMap<int, UTexture2D*> GetAllImageEntries();
 #pragma endregion
 
 #pragma region public function
 	void AddEntry(int _id, FString _text);
+
+	void AddEntry(int _id, UTexture2D* _image);
 #pragma endregion
 
 private:
 #pragma region private variable
 	TMap<int, FString> m_entries;
+	TMap<int, UTexture2D*> m_Entriess;
 #pragma endregion
 
 };

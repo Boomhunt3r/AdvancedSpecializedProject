@@ -70,6 +70,9 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "Player")
 	void AddLogbookEntry(int ID, FString Text);
 
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void AddImageLogbookEntry(int ID, UTexture2D* Image);
+
 	UFUNCTION(BlueprintCallable, Category = "Player Movement")
 	void Move(FVector2D Movement, bool Running);
 
