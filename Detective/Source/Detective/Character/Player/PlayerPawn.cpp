@@ -78,6 +78,12 @@ void APlayerPawn::AddLogbookEntry(int ID, FString Text)
 	m_pLogbook->UpdateEntries();
 }
 
+void APlayerPawn::AddImageLogbookEntry(int ID, UTexture2D* Image)
+{
+	m_pLogbook->AddEntry(ID, Image);
+	m_pLogbook->UpdateEntries();
+}
+
 void APlayerPawn::Move(FVector2D Movement, bool Running)
 {
 	if (Movement.X != 0.0f || Movement.Y != 0.0f)
