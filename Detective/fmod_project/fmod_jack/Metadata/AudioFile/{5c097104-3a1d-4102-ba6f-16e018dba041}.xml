@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{ac30d547-3a12-4bdf-b756-e4618abee668}">
+	<object class="AudioFile" id="{5c097104-3a1d-4102-ba6f-16e018dba041}">
 		<property name="assetPath">
-			<value>Steps/FOOTSTEP_Leather_Wood_Hollow_Jog_RR1_mono.wav</value>
+			<value>Steps/A_Step_7.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.46612244897959182</value>
+			<value>0.772312925170068</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{cd4e6f89-3437-4b65-a4cb-a3de29dca6ae}</destination>
