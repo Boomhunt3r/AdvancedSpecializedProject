@@ -21,3 +21,4 @@ Plugins/*/Intermediate/
 *.a
 *.dll
 *.pdb
+Detective/Content/ThirdPersonBP/Maps/2_BuiltData.uasset
