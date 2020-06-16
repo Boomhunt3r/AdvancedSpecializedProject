@@ -200,7 +200,7 @@ void APlayerPawn::ActivateView()
 	FVector start = Capsule->GetComponentLocation();
 	FVector end = Capsule->GetComponentLocation() + FVector(5.0f, 5.0f, 5.0f);
 
-	DrawDebugSphere(GetWorld(), Capsule->GetComponentLocation(), MySphere.GetSphereRadius(), 100, FColor::Purple, true);
+	//DrawDebugSphere(GetWorld(), Capsule->GetComponentLocation(), MySphere.GetSphereRadius(), 100, FColor::Purple, true);
 
 	GetWorld()->SweepMultiByChannel(hits, start, end, FQuat::Identity, ECollisionChannel::ECC_Camera, MySphere);
 	
