@@ -3,6 +3,8 @@ Binaries/
 Saved/
 Plugins/*/Intermediate/
 .vs/
+Content/StarterContent/
+Plugins/*/Binaries/
 
 *.xcodeproj
 *.xcworkspace
