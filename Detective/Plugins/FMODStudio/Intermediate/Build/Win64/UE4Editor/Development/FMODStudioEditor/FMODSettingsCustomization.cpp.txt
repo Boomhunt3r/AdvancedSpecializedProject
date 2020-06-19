@@ -1,7 +1,7 @@
-g:\projects\bachelorgruppenarbeit\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudioeditor\private\FMODSettingsCustomization.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODSettingsCustomization.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
-c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\PropertyEditorModule.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorModule.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/AES.h
@@ -42,14 +42,14 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Toolkit
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\SlateFwd.h
-c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\IDetailsView.h
-c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\PropertyEditorDelegates.h
-c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\IPropertyTypeCustomization.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailsView.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorDelegates.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IPropertyTypeCustomization.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
-c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\IDetailCustomNodeBuilder.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomNodeBuilder.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\AssetThumbnail.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
@@ -62,17 +62,17 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internatio
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\assetregistry\public\AssetDataTagMap.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetDataTagMap.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetData.generated.h
-c:\program files\epic games\ue_4.23\engine\source\editor\unrealed\public\TickableEditorObject.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\TickableEditorObject.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Tickable.h
-c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\IDetailPropertyRow.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IDetailPropertyRow.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSpacer.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\Settings/ProjectPackagingSettings.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ProjectPackagingSettings.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h

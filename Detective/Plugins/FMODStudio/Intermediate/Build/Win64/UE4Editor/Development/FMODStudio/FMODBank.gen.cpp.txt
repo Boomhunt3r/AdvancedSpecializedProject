@@ -1,7 +1,7 @@
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
-G:\Projects\BachelorGruppenArbeit\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio/Classes/FMODBank.h
-g:\projects\bachelorgruppenarbeit\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\classes\FMODAsset.h
-g:\projects\bachelorgruppenarbeit\advancedspecializedproject\detective\plugins\fmodstudio\intermediate\build\win64\ue4editor\inc\fmodstudio\FMODAsset.generated.h
-g:\projects\bachelorgruppenarbeit\advancedspecializedproject\detective\plugins\fmodstudio\intermediate\build\win64\ue4editor\inc\fmodstudio\FMODBank.generated.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio/Classes/FMODBank.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBank.generated.h
