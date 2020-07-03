@@ -105,6 +105,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{659dd49e-cbc4-4473-9dbd-37f5e91a6ce6}">
+		<relationship name="modulators">
+			<destination>{2d696e2c-8b33-477b-be0f-c69e84b1f21e}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{9c071fe0-bbbf-44b0-8ecd-03dd9e7b0e7a}</destination>
 		</relationship>
@@ -200,10 +203,10 @@
 			<value>4</value>
 		</property>
 		<property name="minimumTimeBetweenSounds">
-			<value>5000</value>
+			<value>7000</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>10000</value>
+			<value>19000</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>7.79999971</value>
@@ -252,10 +255,10 @@
 			<value>4</value>
 		</property>
 		<property name="minimumTimeBetweenSounds">
-			<value>5000</value>
+			<value>13000</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>22000</value>
+			<value>90000</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>6</value>
@@ -306,6 +309,20 @@
 		<relationship name="markerTrack">
 			<destination>{2b4e488f-25cd-4283-84a9-f6107d7e42e5}</destination>
 		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{2d696e2c-8b33-477b-be0f-c69e84b1f21e}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="attackTime">
+			<value>237.17952</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
+		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{9c071fe0-bbbf-44b0-8ecd-03dd9e7b0e7a}">
 		<relationship name="effects">
