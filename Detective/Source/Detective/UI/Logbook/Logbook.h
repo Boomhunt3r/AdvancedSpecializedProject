@@ -25,18 +25,24 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Logbook")
 	TMap<int, UTexture2D*> GetAllImageEntries();
+
+	UFUNCTION(BlueprintCallable, Category = "Logbook")
+	TMap<int, UTexture2D*> GetAllClearEntries();
 #pragma endregion
 
 #pragma region public function
 	void AddEntry(int _id, FString _text);
 
 	void AddEntry(int _id, UTexture2D* _image);
+
+	void AddClearEntry(int _id, UTexture2D* _image);
 #pragma endregion
 
 private:
 #pragma region private variable
 	TMap<int, FString> m_entries;
 	TMap<int, UTexture2D*> m_Entriess;
+	TMap<int, UTexture2D*> m_Clear;
 #pragma endregion
 
 };
