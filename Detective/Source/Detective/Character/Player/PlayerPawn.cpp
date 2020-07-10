@@ -61,6 +61,9 @@ void APlayerPawn::ShowHideLogbook(bool Visible)
 		FInputModeGameAndUI im;
 		im.SetLockMouseToViewportBehavior(EMouseLockMode::LockInFullscreen);
 		((APlayerController*)(GetController()))->SetInputMode(im);
+		m_pAnimation->IsIdle = true;
+		m_pAnimation->IsWalk = false;
+		m_pAnimation->IsRun = false;
 	}
 	else
 	{
@@ -82,6 +85,11 @@ void APlayerPawn::AddImageLogbookEntry(int ID, UTexture2D* Image)
 {
 	m_pLogbook->AddEntry(ID, Image);
 	m_pLogbook->UpdateEntries();
+}
+
+void APlayerPawn::AddClearLogbookEntry(int ID, UTexture2D* Image)
+{
+	m_pLogbook->AddClearEntry(ID, Image);
 }
 
 void APlayerPawn::Move(FVector2D Movement, bool Running)
@@ -203,7 +211,7 @@ void APlayerPawn::ActivateView()
 	//DrawDebugSphere(GetWorld(), Capsule->GetComponentLocation(), MySphere.GetSphereRadius(), 100, FColor::Purple, true);
 
 	GetWorld()->SweepMultiByChannel(hits, start, end, FQuat::Identity, ECollisionChannel::ECC_Camera, MySphere);
-	
+
 	for (auto& Hit : hits)
 	{
 		if (Hit.bBlockingHit)
