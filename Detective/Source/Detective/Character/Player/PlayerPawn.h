@@ -58,6 +58,7 @@ public:
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Player Movement")
 		float JumpForce = 0.0f;
+
 #pragma endregion
 
 #pragma region UFUNCTION
@@ -86,7 +87,7 @@ public:
 	void Interact();
 
 	UFUNCTION(BlueprintCallable, Category = "Player Action")
-	void ActivateView();
+	void ActivateView(TArray<AActor*> _View);
 #pragma endregion
 
 
