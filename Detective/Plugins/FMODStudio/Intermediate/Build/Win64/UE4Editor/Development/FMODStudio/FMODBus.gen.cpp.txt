@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio/Classes/FMODBus.h
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBus.generated.h
-=======
 G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
@@ -14,4 +5,3 @@ F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\
 F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
 F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
 F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBus.generated.h
->>>>>>> develop
