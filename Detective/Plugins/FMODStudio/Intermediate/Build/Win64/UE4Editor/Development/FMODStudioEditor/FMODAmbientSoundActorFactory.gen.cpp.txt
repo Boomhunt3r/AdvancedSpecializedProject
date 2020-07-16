@@ -1,7 +1,7 @@
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
-F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor/Classes/FMODAmbientSoundActorFactory.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
-G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
-F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor\FMODAmbientSoundActorFactory.generated.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor/Classes/FMODAmbientSoundActorFactory.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
+P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor\FMODAmbientSoundActorFactory.generated.h
