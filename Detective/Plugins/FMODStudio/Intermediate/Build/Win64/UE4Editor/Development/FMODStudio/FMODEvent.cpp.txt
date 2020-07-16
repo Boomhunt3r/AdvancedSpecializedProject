@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
@@ -16,3 +17,23 @@ C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\F
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+=======
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEvent.generated.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+>>>>>>> develop

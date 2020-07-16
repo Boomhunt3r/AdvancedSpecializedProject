@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAmbientSound.h
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAnimNotifyPlay.h
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
@@ -15,3 +16,22 @@ C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\F
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlTrack.h
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
 C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
+=======
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAmbientSound.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAnimNotifyPlay.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAudioComponent.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBlueprintStatics.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSection.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSectionTemplate.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlTrack.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
+D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
+>>>>>>> develop
