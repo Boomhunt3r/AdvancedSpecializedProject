@@ -77,6 +77,12 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Player Action")
 	void ActivateView(TArray<AActor*> _View);
+
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void LockInput();
+
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void UnlockInput();
 #pragma endregion
 
 protected:
