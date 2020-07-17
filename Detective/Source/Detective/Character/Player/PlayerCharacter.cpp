@@ -136,20 +136,14 @@ void APlayerCharacter::ShowHideLogbook(bool Visible)
 
 		((APlayerController*)(GetController()))->bShowMouseCursor = true;
 
-		FInputModeGameAndUI im;
-		im.SetLockMouseToViewportBehavior(EMouseLockMode::LockInFullscreen);
-		((APlayerController*)(GetController()))->SetInputMode(im);
-		/*m_pAnimation->IsIdle = true;
-		m_pAnimation->IsWalk = false;
-		m_pAnimation->IsRun = false;*/
+		GetCharacterMovement()->DisableMovement();
 	}
 	else
 	{
 		m_pLogbook->SetVisibility(ESlateVisibility::Hidden);
 
 		((APlayerController*)(GetController()))->bShowMouseCursor = false;
-		FInputModeGameOnly im;
-		((APlayerController*)(GetController()))->SetInputMode(im);
+		GetCharacterMovement()->SetMovementMode(EMovementMode::MOVE_Walking);
 	}
 }
 
@@ -196,5 +190,19 @@ void APlayerCharacter::ActivateView(TArray<AActor*> _View)
 		if (VectorLength <= 500.0f)
 			((ADetectiveView*)(Actor))->ActivateShader();
 	}
+}
+
+void APlayerCharacter::LockInput()
+{
+	((APlayerController*)(GetController()))->bShowMouseCursor = true;
+
+	GetCharacterMovement()->DisableMovement();
+}
+
+void APlayerCharacter::UnlockInput()
+{
+	((APlayerController*)(GetController()))->bShowMouseCursor = false;
+
+	GetCharacterMovement()->SetMovementMode(EMovementMode::MOVE_Walking);
 }
 
