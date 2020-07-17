@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\Sequencer\FMODParameterSection.h
 D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParameterSection.h
 D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
@@ -13,3 +14,20 @@ D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evalu
 D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
 D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFloatChannel.generated.h
 D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterSection.generated.h
+=======
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\Sequencer\FMODParameterSection.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParameterSection.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannel.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannelData.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelTraits.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTemplateStore.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFloatChannel.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterSection.generated.h
+>>>>>>> develop

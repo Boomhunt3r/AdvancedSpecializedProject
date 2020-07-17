@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // PCH for D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODStudioPrivatePCH.h
+=======
+// PCH for F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODStudioPrivatePCH.h
+>>>>>>> develop
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -371,4 +375,8 @@
 #define FMODSTUDIO_API DLLEXPORT
 #define MEDIA_VTABLE DLLIMPORT_VTABLE
 #define MEDIA_API DLLIMPORT
+<<<<<<< HEAD
 #include "D:/3D Porgramme/Epic Games/UE_4.23/AdvancedProject/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"
+=======
+#include "F:/BachelorTeam/AdvancedSpecializedProject/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"
+>>>>>>> develop
