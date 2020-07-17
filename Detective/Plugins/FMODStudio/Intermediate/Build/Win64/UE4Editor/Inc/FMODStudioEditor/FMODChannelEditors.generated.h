@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FMODSTUDIOEDITOR_FMODChannelEditors_generated_h
 
-#define Detective_Plugins_FMODStudio_Source_FMODStudioEditor_Private_Sequencer_FMODChannelEditors_h_31_GENERATED_BODY \
+#define AdvancedProject_AdvancedSpecializedProject_Detective_Plugins_FMODStudio_Source_FMODStudioEditor_Private_Sequencer_FMODChannelEditors_h_31_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODEventControlKeyStruct_Statics; \
 	FMODSTUDIOEDITOR_API static class UScriptStruct* StaticStruct(); \
 	typedef FMovieSceneKeyTimeStruct Super;
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> FMODSTUDIOEDITOR_API UScriptStruct* StaticStruct<struct FFMODEventControlKeyStruct>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Detective_Plugins_FMODStudio_Source_FMODStudioEditor_Private_Sequencer_FMODChannelEditors_h
+#define CURRENT_FILE_ID AdvancedProject_AdvancedSpecializedProject_Detective_Plugins_FMODStudio_Source_FMODStudioEditor_Private_Sequencer_FMODChannelEditors_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

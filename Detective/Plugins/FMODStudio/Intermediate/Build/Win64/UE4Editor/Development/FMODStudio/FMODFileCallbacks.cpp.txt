@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODFileCallbacks.h
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
@@ -10,6 +11,21 @@ D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Pub
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+=======
+<<<<<<< HEAD
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODFileCallbacks.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+>>>>>>> develop
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/World.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
@@ -70,7 +86,11 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Expre
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
+<<<<<<< HEAD
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+=======
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+>>>>>>> develop
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
@@ -80,3 +100,175 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/Runnab
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODFileCallbacks.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\WorldCollision.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore\InputCoreTypes.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ChildActorComponent.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc\Change.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialMerging.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Level.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Actor.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationTypes.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAgentInterface.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Pawn.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\EngineDefines.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintCore.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Blueprint.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine\NetworkDelegates.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PendingNetGame.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LatentActionManager.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/GameInstanceSubsystem.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/Subsystem.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Subsystem.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstanceSubsystem.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/SubsystemCollection.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstance.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceDeclares.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldPSCPool.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\World.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+=======
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODFileCallbacks.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\WorldCollision.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore\InputCoreTypes.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ChildActorComponent.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc\Change.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialMerging.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Level.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Actor.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationTypes.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAgentInterface.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Pawn.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\EngineDefines.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintCore.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Blueprint.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine\NetworkDelegates.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PendingNetGame.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LatentActionManager.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/GameInstanceSubsystem.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/Subsystem.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Subsystem.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstanceSubsystem.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/SubsystemCollection.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstance.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceDeclares.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldPSCPool.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\World.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+>>>>>>> develop
+>>>>>>> develop
+>>>>>>> develop

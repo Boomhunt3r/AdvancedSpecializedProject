@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 // PCH for D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioEditorPrivatePCH.h
+=======
+<<<<<<< HEAD
+// PCH for C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioEditorPrivatePCH.h
+=======
+<<<<<<< HEAD
+// PCH for D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioEditorPrivatePCH.h
+=======
+// PCH for F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioEditorPrivatePCH.h
+>>>>>>> develop
+>>>>>>> develop
+>>>>>>> develop
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -390,4 +402,16 @@
 #define FMODSTUDIO_API DLLIMPORT
 #define MEDIA_VTABLE DLLIMPORT_VTABLE
 #define MEDIA_API DLLIMPORT
+<<<<<<< HEAD
 #include "D:/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudioEditor/Private/FMODStudioEditorPrivatePCH.h"
+=======
+<<<<<<< HEAD
+#include "C:/Users/Falk/Documents/GitKraken/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudioEditor/Private/FMODStudioEditorPrivatePCH.h"
+=======
+<<<<<<< HEAD
+#include "D:/3D Porgramme/Epic Games/UE_4.23/AdvancedProject/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudioEditor/Private/FMODStudioEditorPrivatePCH.h"
+=======
+#include "F:/BachelorTeam/AdvancedSpecializedProject/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudioEditor/Private/FMODStudioEditorPrivatePCH.h"
+>>>>>>> develop
+>>>>>>> develop
+>>>>>>> develop
