@@ -28,13 +28,8 @@
 /wd4838
 /we4668
 /I .
-<<<<<<< HEAD
 /I C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes
 /I C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private
-=======
-/I F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes
-/I F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private
->>>>>>> develop
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene
 /I Runtime
 /I Runtime\MovieScene\Public
@@ -505,19 +500,11 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-<<<<<<< HEAD
 /I C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio
 /I C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source
 /I C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD
 /I C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public
 /I C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio
-=======
-/I F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio
-/I F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source
-/I F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD
-/I F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public
-/I F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio
->>>>>>> develop
 /I Runtime\Media\Public
 /I Runtime\Media
 /I ThirdParty\PhysX3\PxShared\include
@@ -543,28 +530,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-<<<<<<< HEAD
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE"
-=======
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE"
->>>>>>> develop
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-<<<<<<< HEAD
 /FI"C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\PCH.FMODStudio.h"
 /Yu"C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\PCH.FMODStudio.h"
 /Fp"C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\PCH.FMODStudio.h.pch"
 "C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODBus.cpp"
 /Fo"C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\FMODBus.cpp.obj"
-=======
-/FI"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\PCH.FMODStudio.h"
-/Yu"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\PCH.FMODStudio.h"
-/Fp"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\PCH.FMODStudio.h.pch"
-"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODBus.cpp"
-/Fo"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\FMODBus.cpp.obj"
->>>>>>> develop
 /TP
 /GR-
 /W4
