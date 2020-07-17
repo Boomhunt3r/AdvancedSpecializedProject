@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\Sequencer\FMODParameterSection.h
 P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParameterSection.h
 P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
@@ -13,3 +14,20 @@ P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSc
 P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
 P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFloatChannel.generated.h
 P:\Artist\UE4\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterSection.generated.h
+=======
+D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\Sequencer\FMODParameterSection.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParameterSection.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannel.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannelData.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelTraits.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTemplateStore.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFloatChannel.generated.h
+D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterSection.generated.h
+>>>>>>> Stashed changes

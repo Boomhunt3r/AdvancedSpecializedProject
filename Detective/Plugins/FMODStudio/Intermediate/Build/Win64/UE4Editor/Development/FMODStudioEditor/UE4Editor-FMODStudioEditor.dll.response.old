@@ -19,8 +19,23 @@
 /DELAYLOAD:"DBGHELP.DLL"
 /DELAYLOAD:"fmodL.dll"
 /DELAYLOAD:"fmodstudioL.dll"
+<<<<<<< Updated upstream
 /LIBPATH:"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64"
 /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64"
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+/LIBPATH:"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\lib\x64"
+=======
+/LIBPATH:"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64"
+>>>>>>> develop
+=======
+/LIBPATH:"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\lib\x64"
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -34,6 +49,30 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODChannelEditors.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODParameterSection.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventControlTrackEditor.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventParameterTrackEditor.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\AssetTypeActions_FMODEvent.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAmbientSoundActorFactory.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAudioComponentDetails.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAudioComponentVisualizer.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventEditor.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODSettingsCustomization.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioEditorModule.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioStyle.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\SFMODEventEditorPanel.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAmbientSoundActorFactory.gen.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioEditor.init.gen.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODChannelEditors.gen.cpp.obj"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\Default.rc2.res"
+=======
+>>>>>>> Stashed changes
 "F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.obj"
 "F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODChannelEditors.cpp.obj"
 "F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventControlTrackEditor.cpp.obj"
@@ -52,6 +91,30 @@
 "F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODChannelEditors.gen.cpp.obj"
 "F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioEditor.init.gen.cpp.obj"
 "F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\Default.rc2.res"
+<<<<<<< Updated upstream
+=======
+>>>>>>> develop
+=======
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODChannelEditors.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventControlTrackEditor.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventParameterTrackEditor.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODParameterSection.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\AssetTypeActions_FMODEvent.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAmbientSoundActorFactory.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAudioComponentDetails.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAudioComponentVisualizer.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventEditor.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODSettingsCustomization.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioEditorModule.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioStyle.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\SFMODEventEditorPanel.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAmbientSoundActorFactory.gen.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODChannelEditors.gen.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioEditor.init.gen.cpp.obj"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\Default.rc2.res"
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -76,6 +139,39 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodL_vc.lib"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodstudioL_vc.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Settings\UE4Editor-Settings.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\EditorStyle\UE4Editor-EditorStyle.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelEditor\UE4Editor-LevelEditor.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\AssetTools\UE4Editor-AssetTools.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\AssetRegistry\UE4Editor-AssetRegistry.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\PropertyEditor\UE4Editor-PropertyEditor.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\WorkspaceMenuStructure\UE4Editor-WorkspaceMenuStructure.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sockets\UE4Editor-Sockets.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelSequence\UE4Editor-LevelSequence.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\MainFrame\UE4Editor-MainFrame.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieScene\UE4Editor-MovieScene.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieSceneTracks\UE4Editor-MovieSceneTracks.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieSceneTools\UE4Editor-MovieSceneTools.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\UE4Editor-FMODStudio.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sequencer\UE4Editor-Sequencer.lib"
+/OUT:"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64\UE4Editor-FMODStudioEditor.dll"
+/IMPLIB:"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\UE4Editor-FMODStudioEditor.suppressed.lib"
+/PDB:"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64\UE4Editor-FMODStudioEditor.pdb"
+=======
+>>>>>>> Stashed changes
 "F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodL_vc.lib"
 "F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodstudioL_vc.lib"
 "G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
@@ -103,5 +199,38 @@
 /OUT:"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64\UE4Editor-FMODStudioEditor.dll"
 /IMPLIB:"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\UE4Editor-FMODStudioEditor.suppressed.lib"
 /PDB:"F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64\UE4Editor-FMODStudioEditor.pdb"
+<<<<<<< Updated upstream
+=======
+>>>>>>> develop
+=======
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodL_vc.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodstudioL_vc.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Settings\UE4Editor-Settings.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\EditorStyle\UE4Editor-EditorStyle.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelEditor\UE4Editor-LevelEditor.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\AssetTools\UE4Editor-AssetTools.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\AssetRegistry\UE4Editor-AssetRegistry.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\PropertyEditor\UE4Editor-PropertyEditor.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\WorkspaceMenuStructure\UE4Editor-WorkspaceMenuStructure.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sockets\UE4Editor-Sockets.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelSequence\UE4Editor-LevelSequence.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\MainFrame\UE4Editor-MainFrame.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieScene\UE4Editor-MovieScene.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieSceneTracks\UE4Editor-MovieSceneTracks.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieSceneTools\UE4Editor-MovieSceneTools.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\UE4Editor-FMODStudio.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"D:\3D Porgramme\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sequencer\UE4Editor-Sequencer.lib"
+/OUT:"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64\UE4Editor-FMODStudioEditor.dll"
+/IMPLIB:"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\UE4Editor-FMODStudioEditor.suppressed.lib"
+/PDB:"D:\3D Porgramme\Epic Games\UE_4.23\AdvancedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Binaries\Win64\UE4Editor-FMODStudioEditor.pdb"
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_FMODStudioEditor
