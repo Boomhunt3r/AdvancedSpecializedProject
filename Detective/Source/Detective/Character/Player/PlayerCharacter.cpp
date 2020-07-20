@@ -11,7 +11,6 @@
 #include "Components/CapsuleComponent.h"
 #include "Components/SkeletalMeshComponent.h"
 #include "Camera/CameraComponent.h"
-#include "HeadMountedDisplayFunctionLibrary.h"
 #include "Components/InputComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/Controller.h"
@@ -136,6 +135,10 @@ void APlayerCharacter::ShowHideLogbook(bool Visible)
 
 		((APlayerController*)(GetController()))->bShowMouseCursor = true;
 
+		FInputModeGameAndUI im;
+		im.SetLockMouseToViewportBehavior(EMouseLockMode::LockInFullscreen);
+		((APlayerController*)GetController())->SetInputMode(im);
+
 		GetCharacterMovement()->DisableMovement();
 	}
 	else
@@ -143,6 +146,9 @@ void APlayerCharacter::ShowHideLogbook(bool Visible)
 		m_pLogbook->SetVisibility(ESlateVisibility::Hidden);
 
 		((APlayerController*)(GetController()))->bShowMouseCursor = false;
+		FInputModeGameOnly im;
+		((APlayerController*)GetController())->SetInputMode(im);
+		
 		GetCharacterMovement()->SetMovementMode(EMovementMode::MOVE_Walking);
 	}
 }
