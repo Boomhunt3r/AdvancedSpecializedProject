@@ -1,400 +1,400 @@
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
-D:\Studium\Bachleor\Team\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio/Classes/FMODAudioComponent.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundAttenuation.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Attenuation.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/CurveFloat.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/RichCurve.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/KeyHandle.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KeyHandle.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/RealCurve.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/IndexedCurve.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IndexedCurve.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RealCurve.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RichCurve.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/CurveBase.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/CurveOwnerInterface.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageReload.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveBase.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveFloat.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Attenuation.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\IAudioExtensionPlugin.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\IAmbisonicsMixer.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundEffectBase.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioResampler.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundEffectPreset.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectPreset.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/Queue.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IAmbisonicsMixer.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SampleBuffer.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\DSP/Dsp.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Tickable.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\classes\sound\SoundEffectSubmix.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectSubmix.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSubmix.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\CanvasTypes.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\HitProxies.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\BatchedElements.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHI.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rhi\public\MultiGPU.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rhi\public\RHIResources.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rhi\public\DynamicRHI.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rhi\public\RHIContext.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rhi\public\RHIUtilities.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rhi\public\RHICommandList.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/App.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
-d:\studium\epic games\ue_4.23\engine\source\runtime\rhi\public\RHICommandList.inl
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\RenderCore.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\SceneView.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\ShaderParameterMacros.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\ShaderParameterMetadata.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\RenderingThread.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/World.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\CollisionQueryParams.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\WorldCollision.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore\InputCoreTypes.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ChildActorComponent.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\core\public\misc\Change.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialMerging.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Level.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Actor.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationTypes.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAgentInterface.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Pawn.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\EngineDefines.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintCore.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Blueprint.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\classes\engine\NetworkDelegates.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PendingNetGame.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LatentActionManager.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Subsystems/GameInstanceSubsystem.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Subsystems/Subsystem.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Subsystem.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstanceSubsystem.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Subsystems/SubsystemCollection.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstance.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Physics/PhysicsInterfaceDeclares.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldPSCPool.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\World.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\SceneTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneTypes.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\ShowFlags.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\ShowFlagsValues.inl
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\ShowFlagsValues.inl
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\ShowFlagsValues.inl
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\ShowFlagsValues.inl
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\ShowFlagsValues.inl
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\ConvexVolume.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportClient.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/PopupMethodReply.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/ReplyBase.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SWidget.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameValue.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateColor.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/WidgetStyle.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateColor.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRect.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Margin.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/SlateEnums.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateEnums.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Margin.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Visibility.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Clipping.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingCommon.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRotatedRect.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateLayoutTransform.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/TransformCalculus.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/TransformCalculus2D.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderTransform.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/CursorReply.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/Reply.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/Events.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericAccessibleInterfaces.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Variant.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Geometry.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/PaintGeometry.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Geometry.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Events.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.inl
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/NavigationReply.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\NavigationReply.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\RenderingCommon.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Clipping.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedWidget.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutGeometry.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/FlowDirection.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FlowDirection.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/ISlateMetaData.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/WidgetActiveTimerDelegate.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Textures/SlateShaderResource.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\SlateGlobals.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateWidgetAccessibleTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/DeclarativeSyntaxSupport.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SNullWidget.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\SlotBase.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Children.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ScriptViewportClient.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\UnrealClient.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ScriptViewportClient.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ViewportSplitScreen.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TitleSafeZone.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportDelegates.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DebugDisplayProperty.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugDisplayProperty.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\StereoRendering.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameViewportClient.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\SceneInterface.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\SceneUtils.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ProfilingDebugging/RealtimeGPUProfiler.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Async/Future.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/SHMath.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\FinalPostProcessSettings.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Scene.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlendableInterface.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendableInterface.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Scene.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\BlendableManager.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Renderer\Public\GlobalDistanceFieldParameters.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameters.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderUtils.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\PackedNormal.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIStaticStates.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\DebugViewModeHelpers.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RendererInterface.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\VirtualTexturing.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\StaticBoundShaderState.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\PipelineStateCache.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\StaticMeshResources.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectIterator.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectHash.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInterface.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialLayersFunctions.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\assetregistry\public\AssetDataTagMap.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetData.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialLayersFunctions.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\MaterialSceneTextureId.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialSceneTextureId.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInterface.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\RawIndexBuffer.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Components.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\ShaderCore.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\Shader.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\rendercore\public\ShaderPermutation.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Components.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\LocalVertexFactory.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\PrimitiveViewRelevance.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\PrimitiveSceneProxy.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\PrimitiveUniformShaderParameters.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\LightmapUniformShaderParameters.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/MeshMerging.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/InstancedStaticMeshComponent.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TextureStreamingTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureStreamingTypes.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/MeshComponent.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/PrimitiveComponent.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/BodyInstance.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\PhysxUserData.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Physics/PhysicsInterfaceCore.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsCore.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Physics/PhysicsInterfacePhysX.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\EngineGlobals.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/ConstraintTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ConstraintTypes.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\physics\PhysicsInterfaceTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/BodySetupEnums.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BodySetupEnums.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceTypesCore.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\physics\GenericPhysicsInterface.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Physics/PhysScene_PhysX.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\PhysicsPublic.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\DynamicMeshBuilder.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\SceneManagement.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TextureLightProfile.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Texture2D.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Texture.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TextureDefines.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureDefines.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\MaterialShared.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\StaticParameterSet.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/FortniteMainBranchObjectVersion.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/ReleaseObjectVersion.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticParameterSet.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\TextureResource.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/StreamableRenderAsset.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StreamableRenderAsset.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\RenderAssetUpdate.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2D.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureLightProfile.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\MeshBatch.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\VT/RuntimeVirtualTextureEnum.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RuntimeVirtualTextureEnum.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\DynamicBufferAllocator.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsPublicCore.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Physics/Experimental/PhysScene_ImmediatePhysX.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Physics/Experimental/PhysicsInterfaceImmediatePhysX.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BodyInstance.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavRelevantInterface.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\AI/NavigationModifier.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavLinkDefinition.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavLinkDefinition.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavRelevantInterface.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PrimitiveComponent.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MeshComponent.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshComponent.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InstancedStaticMeshComponent.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MeshMerging.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Rendering/ColorVertexBuffer.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Rendering/StaticMeshVertexBuffer.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\StaticMeshVertexData.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Rendering/StaticMeshVertexDataInterface.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Rendering/PositionVertexBuffer.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\WeightedRandomSampler.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\PerPlatformProperties.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Algo/Find.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Algo/Impl/RangePointerType.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PerPlatformProperties.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CanvasTypes.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IAudioExtensionPlugin.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundAttenuation.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AudioDevice.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Audio.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraph.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\BlueprintUtilities.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraph.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundEffectSource.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectSource.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBusSend.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBusSend.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\AudioDeviceManager.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Audio/AudioDebug.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\AudioThread.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\classes\sound\SoundConcurrency.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundConcurrency.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundBase.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundGroups.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\AudioMixerTypes.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWave.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\DSP/SpectrumAnalyzer.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\DSP/BufferVectorOperations.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\DSP/AudioFFT.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\Subsystems/EngineSubsystem.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\AudioDynamicParameter.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DeveloperSettings.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeveloperSettings.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Brush.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Brush.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
-D:\Studium\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
-D:\Studium\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\AudioVirtualLoop.h
-d:\studium\epic games\ue_4.23\engine\source\runtime\engine\public\ActiveSound.h
-D:\Studium\Bachleor\Team\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
-D:\Studium\Bachleor\Team\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
-D:\Studium\Bachleor\Team\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod_studio_common.h
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod.h
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod_common.h
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod_codec.h
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod_dsp.h
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod_dsp_effects.h
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod_output.h
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod_studio.h
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudio\public\fmod\fmod.hpp
-d:\studium\bachleor\team\advancedspecializedproject\detective\plugins\fmodstudio\intermediate\build\win64\ue4editor\inc\fmodstudio\FMODAudioComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio/Classes/FMODAudioComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundAttenuation.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Attenuation.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/CurveFloat.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/RichCurve.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/KeyHandle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KeyHandle.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/RealCurve.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/IndexedCurve.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IndexedCurve.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RealCurve.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RichCurve.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/CurveBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/CurveOwnerInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageReload.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveBase.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveFloat.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Attenuation.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\IAudioExtensionPlugin.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\IAmbisonicsMixer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundEffectBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioResampler.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundEffectPreset.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectPreset.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IAmbisonicsMixer.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SampleBuffer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\DSP/Dsp.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Tickable.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound\SoundEffectSubmix.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectSubmix.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSubmix.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\HitProxies.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\BatchedElements.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHI.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIResources.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIContext.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/App.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneView.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\WorldCollision.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore\InputCoreTypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ChildActorComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc\Change.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialMerging.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Level.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Actor.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationTypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Pawn.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\EngineDefines.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintCore.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Blueprint.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine\NetworkDelegates.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PendingNetGame.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LatentActionManager.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/GameInstanceSubsystem.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/Subsystem.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Subsystem.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstanceSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/SubsystemCollection.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstance.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceDeclares.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldPSCPool.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\World.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneTypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\ShowFlags.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\ConvexVolume.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportClient.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/PopupMethodReply.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/ReplyBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SWidget.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameValue.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateColor.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/WidgetStyle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateColor.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRect.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Margin.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/SlateEnums.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateEnums.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Margin.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Visibility.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Clipping.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingCommon.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRotatedRect.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateLayoutTransform.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/TransformCalculus.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/TransformCalculus2D.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderTransform.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/CursorReply.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/Reply.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/Events.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericAccessibleInterfaces.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Geometry.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/PaintGeometry.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Geometry.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Events.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/NavigationReply.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\NavigationReply.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\RenderingCommon.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Clipping.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedWidget.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutGeometry.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/FlowDirection.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FlowDirection.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/ISlateMetaData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Types/WidgetActiveTimerDelegate.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Textures/SlateShaderResource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\SlateGlobals.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateWidgetAccessibleTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/DeclarativeSyntaxSupport.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SNullWidget.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\SlotBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Layout/Children.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ScriptViewportClient.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\UnrealClient.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ScriptViewportClient.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ViewportSplitScreen.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TitleSafeZone.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportDelegates.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DebugDisplayProperty.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugDisplayProperty.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\StereoRendering.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameViewportClient.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneUtils.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ProfilingDebugging/RealtimeGPUProfiler.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Async/Future.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/SHMath.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\FinalPostProcessSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Scene.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlendableInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendableInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Scene.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\BlendableManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Renderer\Public\GlobalDistanceFieldParameters.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameters.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderUtils.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\PackedNormal.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIStaticStates.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\DebugViewModeHelpers.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RendererInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\VirtualTexturing.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\StaticBoundShaderState.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\PipelineStateCache.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\StaticMeshResources.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectIterator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectHash.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialLayersFunctions.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetDataTagMap.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetData.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialLayersFunctions.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\MaterialSceneTextureId.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialSceneTextureId.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\RawIndexBuffer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Components.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\Shader.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderPermutation.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Components.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\LocalVertexFactory.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\PrimitiveViewRelevance.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\PrimitiveSceneProxy.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\PrimitiveUniformShaderParameters.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\LightmapUniformShaderParameters.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/MeshMerging.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/InstancedStaticMeshComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TextureStreamingTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureStreamingTypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/MeshComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/PrimitiveComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/BodyInstance.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\PhysxUserData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceCore.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsCore.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfacePhysX.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\EngineGlobals.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/ConstraintTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ConstraintTypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics\PhysicsInterfaceTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/BodySetupEnums.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BodySetupEnums.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceTypesCore.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics\GenericPhysicsInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/PhysScene_PhysX.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\PhysicsPublic.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\DynamicMeshBuilder.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneManagement.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TextureLightProfile.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Texture2D.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Texture.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TextureDefines.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureDefines.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\MaterialShared.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\StaticParameterSet.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/FortniteMainBranchObjectVersion.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/ReleaseObjectVersion.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticParameterSet.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\TextureResource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/StreamableRenderAsset.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StreamableRenderAsset.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\RenderAssetUpdate.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2D.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureLightProfile.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\MeshBatch.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\VT/RuntimeVirtualTextureEnum.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RuntimeVirtualTextureEnum.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\DynamicBufferAllocator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsPublicCore.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/Experimental/PhysScene_ImmediatePhysX.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/Experimental/PhysicsInterfaceImmediatePhysX.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BodyInstance.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavRelevantInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AI/NavigationModifier.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavLinkDefinition.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavLinkDefinition.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavRelevantInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PrimitiveComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MeshComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InstancedStaticMeshComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MeshMerging.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Rendering/ColorVertexBuffer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Rendering/StaticMeshVertexBuffer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\StaticMeshVertexData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Rendering/StaticMeshVertexDataInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Rendering/PositionVertexBuffer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\WeightedRandomSampler.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\PerPlatformProperties.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Algo/Find.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Algo/Impl/RangePointerType.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PerPlatformProperties.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CanvasTypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IAudioExtensionPlugin.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundAttenuation.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Audio.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraph.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\BlueprintUtilities.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraph.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundEffectSource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectSource.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBusSend.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBusSend.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AudioDeviceManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AudioThread.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound\SoundConcurrency.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundConcurrency.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundBase.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundGroups.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\AudioMixerTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWave.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\DSP/SpectrumAnalyzer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\DSP/BufferVectorOperations.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AudioMixer\Public\DSP/AudioFFT.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DeveloperSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeveloperSettings.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Brush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Brush.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AudioVirtualLoop.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\ActiveSound.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAudioComponent.generated.h
