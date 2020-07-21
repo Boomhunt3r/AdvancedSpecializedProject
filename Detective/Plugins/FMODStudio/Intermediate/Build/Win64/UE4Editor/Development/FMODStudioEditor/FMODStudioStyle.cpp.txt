@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioStyle.h
 P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyle.h
 P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
@@ -14,3 +15,21 @@ P:\Artist\UE4\UE_4.23\Engine\Source\Editor\EditorStyle/Public/Interfaces/IEditor
 P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
 P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
 P:\Artist\UE4\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+=======
+g:\projects\bachelorgruppenarbeit\advancedspecializedproject\detective\plugins\fmodstudio\source\fmodstudioeditor\private\FMODStudioStyle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\EditorStyle/Public/EditorStyleSet.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\EditorStyle/Public/Interfaces/IEditorStyleModule.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+>>>>>>> develop

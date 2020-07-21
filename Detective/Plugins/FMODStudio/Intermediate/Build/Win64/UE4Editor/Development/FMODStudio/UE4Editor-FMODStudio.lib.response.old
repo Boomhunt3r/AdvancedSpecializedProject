@@ -6,7 +6,10 @@
 /NAME:"UE4Editor-FMODStudio.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> develop
 "C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\PCH.FMODStudio.h.obj"
 "C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\FMODEventControlSection.cpp.obj"
 "C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\FMODEventControlSectionTemplate.cpp.obj"
@@ -50,6 +53,7 @@
 "C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\FMODVCA.gen.cpp.obj"
 "C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\Default.rc2.res"
 /OUT:"C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\UE4Editor-FMODStudio.lib"
+<<<<<<< HEAD
 =======
 "D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\PCH.FMODStudio.h.obj"
 "D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\FMODEventControlSection.cpp.obj"
@@ -95,4 +99,6 @@
 "D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\Default.rc2.res"
 /OUT:"D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\UE4Editor-FMODStudio.lib"
 >>>>>>> Stashed changes
+=======
+>>>>>>> develop
 /INCLUDE:IMPLEMENT_MODULE_FMODStudio
