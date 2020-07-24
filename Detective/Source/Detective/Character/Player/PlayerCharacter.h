@@ -54,6 +54,9 @@ public:
 	/** Base look up/down rate, in deg/sec. Other scaling may affect final rate. */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
 	float BaseLookUpRate;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Player Settings")
+	float DetectiveViewRange = 0.0f;
 #pragma endregion
 
 #pragma region UFUNCTION
