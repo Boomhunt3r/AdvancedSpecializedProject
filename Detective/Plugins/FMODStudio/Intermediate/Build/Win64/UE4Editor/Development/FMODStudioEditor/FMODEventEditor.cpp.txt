@@ -1,4 +1,4 @@
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODEventEditor.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODEventEditor.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorToolkit.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\SlateFwd.h
@@ -299,24 +299,24 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MeshDescription\Public
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMesh.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Subsystems/ImportSubsystem.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ImportSubsystem.generated.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEvent.generated.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEvent.generated.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\SFMODEventEditorPanel.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\SFMODEventEditorPanel.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Docking/SDockTab.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
