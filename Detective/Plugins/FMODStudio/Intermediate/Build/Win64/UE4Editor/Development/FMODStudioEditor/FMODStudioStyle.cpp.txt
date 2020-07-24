@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioStyle.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyle.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
@@ -15,21 +14,3 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\EditorStyle/Public/Inte
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
-=======
-F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioStyle.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyle.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Editor\EditorStyle/Public/EditorStyleSet.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Editor\EditorStyle/Public/Interfaces/IEditorStyleModule.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
-G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
->>>>>>> develop
