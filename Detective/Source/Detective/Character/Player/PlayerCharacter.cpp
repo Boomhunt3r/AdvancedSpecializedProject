@@ -193,7 +193,7 @@ void APlayerCharacter::ActivateView(TArray<AActor*> _View)
 	{
 		VectorLength = (Actor->GetActorLocation() - GetCapsuleComponent()->GetComponentLocation()).Size();
 
-		if (VectorLength <= 500.0f)
+		if (VectorLength <= DetectiveViewRange)
 			((ADetectiveView*)(Actor))->ActivateShader();
 	}
 }
