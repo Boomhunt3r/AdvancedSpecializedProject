@@ -28,10 +28,17 @@
 /wd4838
 /we4668
 /I .
+<<<<<<< Updated upstream
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Classes
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private
+=======
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Classes
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private
+>>>>>>> Stashed changes
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Slate
 /I Runtime
 /I Runtime\Slate\Public
@@ -538,6 +545,7 @@
 /I Runtime\Analytics\Analytics\Public
 /I Runtime\Analytics\Analytics
 /I Runtime\Analytics\Analytics\Public\Interfaces
+<<<<<<< Updated upstream
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Public
@@ -546,6 +554,16 @@
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public
 /I D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio
+=======
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Public
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Classes
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Public
+/I D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio
+>>>>>>> Stashed changes
 /I Runtime\Media\Public
 /I Runtime\Media
 /I ThirdParty\PhysX3\PxShared\include
@@ -571,16 +589,28 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
+<<<<<<< Updated upstream
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE"
+=======
+/I P:\Programme\VisualStudio\VC\Tools\MSVC\14.25.28610\INCLUDE
+>>>>>>> Stashed changes
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+<<<<<<< Updated upstream
 /FI"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
 /Yu"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
 /Fp"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.pch"
 "D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\AssetTypeActions_FMODEvent.cpp"
 /Fo"D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\AssetTypeActions_FMODEvent.cpp.obj"
+=======
+/FI"D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
+/Yu"D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
+/Fp"D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.pch"
+"D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\AssetTypeActions_FMODEvent.cpp"
+/Fo"D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\AssetTypeActions_FMODEvent.cpp.obj"
+>>>>>>> Stashed changes
 /TP
 /GR-
 /W4
