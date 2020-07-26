@@ -175,7 +175,7 @@ void APlayerCharacter::Interact()
 	// save hit result from line trace from camera forward
 	FHitResult result;
 	GetWorld()->LineTraceSingleByChannel(result, FollowCamera->GetComponentLocation(),
-		FollowCamera->GetComponentLocation() + FollowCamera->GetForwardVector() * 200.0f, ECollisionChannel::ECC_Camera);
+		FollowCamera->GetComponentLocation() + FollowCamera->GetForwardVector() * InteractRange, ECollisionChannel::ECC_Camera);
 
 	// try to cast hit actor to interact base
 	AInteractBase* pInteract = Cast<AInteractBase>(result.GetActor());

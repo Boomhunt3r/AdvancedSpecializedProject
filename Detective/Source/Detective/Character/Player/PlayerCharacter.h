@@ -57,6 +57,9 @@ public:
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Player Settings")
 	float DetectiveViewRange = 0.0f;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Player Settings")
+	float InteractRange = 0.0f;
 #pragma endregion
 
 #pragma region UFUNCTION
