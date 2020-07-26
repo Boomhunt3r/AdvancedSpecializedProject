@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-// PCH for D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODStudioPrivatePCH.h
-=======
-// PCH for D:\Uni\A_Spiele\Detective\Git\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODStudioPrivatePCH.h
->>>>>>> Stashed changes
+// PCH for F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODStudioPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -375,8 +371,4 @@
 #define FMODSTUDIO_API DLLEXPORT
 #define MEDIA_VTABLE DLLIMPORT_VTABLE
 #define MEDIA_API DLLIMPORT
-<<<<<<< Updated upstream
-#include "D:/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"
-=======
-#include "D:/Uni/A_Spiele/Detective/Git/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"
->>>>>>> Stashed changes
+#include "F:/BachelorTeam/AdvancedSpecializedProject/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"

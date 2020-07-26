@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-#include "D:/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Intermediate/Build/Win64/UE4Editor/Development/FMODStudioEditor/PCH.FMODStudioEditor.h"
-=======
-#include "D:/Uni/A_Spiele/Detective/Git/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Intermediate/Build/Win64/UE4Editor/Development/FMODStudioEditor/PCH.FMODStudioEditor.h"
->>>>>>> Stashed changes
+#include "F:/BachelorTeam/AdvancedSpecializedProject/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Intermediate/Build/Win64/UE4Editor/Development/FMODStudioEditor/PCH.FMODStudioEditor.h"
