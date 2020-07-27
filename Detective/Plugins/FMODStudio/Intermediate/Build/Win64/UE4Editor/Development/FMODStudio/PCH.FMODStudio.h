@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-// PCH for D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODStudioPrivatePCH.h
-=======
-// PCH for C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODStudioPrivatePCH.h
->>>>>>> develop
+// PCH for F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\FMODStudioPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -375,8 +371,4 @@
 #define FMODSTUDIO_API DLLEXPORT
 #define MEDIA_VTABLE DLLIMPORT_VTABLE
 #define MEDIA_API DLLIMPORT
-<<<<<<< HEAD
-#include "D:/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"
-=======
-#include "C:/Users/Falk/Documents/GitKraken/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"
->>>>>>> develop
+#include "F:/BachelorTeam/AdvancedSpecializedProject/AdvancedSpecializedProject/Detective/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"
