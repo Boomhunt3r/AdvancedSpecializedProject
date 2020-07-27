@@ -1,56 +1,48 @@
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
-<<<<<<< HEAD
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio/Private/Sequencer/FMODEventControlTrack.h
-=======
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio/Private/Sequencer/FMODEventControlTrack.h
->>>>>>> develop
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneNameableTrack.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\IMovieSceneTrackInstance.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneNameableTrack.generated.h
-<<<<<<< HEAD
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventControlTrack.generated.h
-=======
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventControlTrack.generated.h
->>>>>>> develop
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio/Private/Sequencer/FMODEventControlTrack.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneNameableTrack.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\IMovieSceneTrackInstance.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneNameableTrack.generated.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventControlTrack.generated.h

@@ -1,225 +1,212 @@
-<<<<<<< HEAD
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
-=======
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
->>>>>>> develop
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParameterSection.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/KeyHandle.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KeyHandle.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/RichCurve.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/RealCurve.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/IndexedCurve.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IndexedCurve.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RealCurve.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RichCurve.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannel.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannelData.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelTraits.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneCommonHelpers.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectKey.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTemplateStore.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplate.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\IMovieSceneTrackInstance.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTrack.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplate.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplateBase.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneExecutionTokens.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneExecutionToken.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationScope.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/PersistentEvaluationData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableToken.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuator.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlayer.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePreAnimatedState.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnRegister.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\IMovieSceneObjectSpawner.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationState.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneMotionVectorSimulation.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableTokenStack.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneInitialValueStore.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending\MovieSceneBlendingAccumulator.inl
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneTemplateInterrogation.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackImplementation.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceHierarchy.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSectionParameters.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSectionParameters.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFloatChannel.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterSection.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneNameableTrack.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneNameableTrack.generated.h
-<<<<<<< HEAD
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventParameterTrack.generated.h
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
-=======
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventParameterTrack.generated.h
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
->>>>>>> develop
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\MovieSceneTracks\Public\Evaluation/MovieSceneParameterTemplate.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInterface.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneTypes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneTypes.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHI.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\MultiGPU.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIResources.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIContext.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHICommandList.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/App.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlendableInterface.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendableInterface.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialLayersFunctions.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetDataTagMap.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetData.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialLayersFunctions.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\MaterialSceneTextureId.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialSceneTextureId.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInterface.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\StaticParameterSet.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/FortniteMainBranchObjectVersion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/ReleaseObjectVersion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticParameterSet.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\MaterialShared.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\Shader.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameters.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderPermutation.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\VirtualTexturing.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialFunctionCall.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\MaterialExpressionIO.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpression.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpression.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMaterialFunctionCall.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/Material.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialAttributeLayers.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMaterialAttributeLayers.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunction.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunctionInterface.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSampleParameter.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSample.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionFontSample.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionFontSampleParameter.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionParameter.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionParameter.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSample.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureBase.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureBase.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSample.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialFunctionInterface.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialFunction.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Material.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterTemplate.generated.h
-<<<<<<< HEAD
-D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventParameterSectionTemplate.generated.h
-=======
-C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventParameterSectionTemplate.generated.h
->>>>>>> develop
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParameterSection.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/KeyHandle.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KeyHandle.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/RichCurve.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/RealCurve.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/IndexedCurve.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IndexedCurve.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RealCurve.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RichCurve.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannel.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannelData.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelTraits.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneCommonHelpers.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectKey.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTemplateStore.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplate.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\IMovieSceneTrackInstance.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTrack.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplate.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplateBase.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneExecutionTokens.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneExecutionToken.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationScope.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/PersistentEvaluationData.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableToken.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuator.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlayer.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePreAnimatedState.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnRegister.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\IMovieSceneObjectSpawner.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationState.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneMotionVectorSimulation.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableTokenStack.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneInitialValueStore.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending\MovieSceneBlendingAccumulator.inl
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneTemplateInterrogation.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackImplementation.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceHierarchy.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSectionParameters.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFloatChannel.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterSection.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneNameableTrack.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneNameableTrack.generated.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventParameterTrack.generated.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\MovieSceneTracks\Public\Evaluation/MovieSceneParameterTemplate.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInterface.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneTypes.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneTypes.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RHI\Public\RHI.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIResources.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIContext.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/App.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlendableInterface.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendableInterface.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialLayersFunctions.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\AssetRegistry\Public\AssetDataTagMap.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\AssetData.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialLayersFunctions.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\MaterialSceneTextureId.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialSceneTextureId.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInterface.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\StaticParameterSet.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/FortniteMainBranchObjectVersion.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/ReleaseObjectVersion.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticParameterSet.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\MaterialShared.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\Shader.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderParameters.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\ShaderPermutation.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\RenderCore\Public\VirtualTexturing.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialFunctionCall.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Public\MaterialExpressionIO.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpression.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpression.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMaterialFunctionCall.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/Material.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialAttributeLayers.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMaterialAttributeLayers.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunction.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunctionInterface.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSampleParameter.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSample.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionFontSample.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionFontSampleParameter.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionParameter.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionParameter.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSample.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureBase.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureBase.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSample.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialFunctionInterface.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialFunction.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Material.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
+G:\Pogramme\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterTemplate.generated.h
+F:\BachelorTeam\AdvancedSpecializedProject\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventParameterSectionTemplate.generated.h
