@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 D:\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioStyle.h
+=======
+C:\Users\Falk\Documents\GitKraken\AdvancedSpecializedProject\Detective\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioStyle.h
+>>>>>>> develop
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyle.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h
